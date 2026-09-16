@@ -18,7 +18,7 @@ for space, speed, or a balance of both.
 - `lz4`
 - `snappy`
 - `xz` (WAL only)
-- `zstd` (WAL only)
+- `zstd`
 
 Compression settings for base backups and WAL archives are configured
 independently. For implementation details, refer to the corresponding API
